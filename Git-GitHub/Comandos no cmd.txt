@@ -1,0 +1,24 @@
+
+   ATENÇÃO: O USO DOS CARACTERES "{}" REPRESENTAM UM LUGAR QUE DEVE SER PREENCHIDO POR ALGO 
+	RESUMINDO: É ONDE VOCÊ IRÁ ESCREVER UMA STRING/FRASE/NOME
+
+	COMANDOS CMD
+   DIR = diretórios que são pastas, disponiveis para certo caminho ou pasta escolhida
+   CD / = retroceder o caminho feito pelo usuario até o SISTEMA DE DADOS , para que se possa escolher um diretório inicial
+   CD . . = Retrocede apenas 1 diretorio do caminho do usuario
+   CLS = Limpar a tela do CMD
+   ECHO {} = simplesmente escreve de volta no terminal uma string qualquer, as chaves representam o lugar da frase escolhida
+   ECHO {} > {}.txt =  caracter ">" rediriciona fluxo, que irá pegar a saída do comando e irá direcionar a um arquivo
+   DEL = Comando de delete restringido apenas a deletar arquivos
+   rmdir {} /S /Q = Remove diretório escolhido pelo usuario
+   
+
+
+	ATALHOS COM BOTÕES
+   TECLA TAB = Auto completar, ajuda na hora de digitar nomes grandes de diretorios
+
+
+	Criando diretorio
+   mkdir {workspace} = mkdir para criar novo diretorio, e em seguida o nome do diretorio, nesse caso o nome escolido foi 'workspace'
+		OBS: O declaramento do nome do diretorio não precisa de chaves entre o nome. EX: 'mkdir workspace'
+   

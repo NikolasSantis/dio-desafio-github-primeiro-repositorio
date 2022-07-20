@@ -1,0 +1,13 @@
+	Operadores Condicionais:
+
+   and: Quando todas as condições são verdadeiras
+   or: Quando uma das comdições são verdadeiras
+   not: Operador Lógico de negação, Inversão de resultado lógico
+	 se a variavel lógica tem cimi valor "Sim", depois do NOT
+	 ela passa a ter o valor reverso "Não". EX:
+		Not B = Tudo que não está em B
+
+	GITBASH
+   ls = listar repositórios
+   ls -a = listas repositórios, com repositórios ocultos
+   shif+Insert = colar 
